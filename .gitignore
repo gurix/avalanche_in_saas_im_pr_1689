@@ -2,7 +2,7 @@
 *.log
 *.synctex.gz
 main.pdf
-*.pdf
+Paper_Markus_Graf.pdf
 *.dvi
 *.bbl
 *.blg
