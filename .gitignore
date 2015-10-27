@@ -1,8 +1,6 @@
 *.aux
 *.log
 *.synctex.gz
-main.pdf
-Paper_Markus_Graf.pdf
 *.dvi
 *.bbl
 *.blg
